@@ -1,0 +1,5 @@
+@import url("viewer.orig.css");
+html[dir='ltr'] #toolbarViewerRight,
+html[dir='rtl'] #toolbarViewerLeft {
+  right: 25px;
+}
